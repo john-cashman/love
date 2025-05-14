@@ -1,8 +1,7 @@
----
+
 title: Dictionary: Base Company Data
 slug: professional-network-companies-data-dictionary
 description: Explore detailed field definitions for Coresignal's Base Company data, including company profiles, industry classifications, organizational attributes and much more.
----
 
 Contains explanations and examples of all data fields available in the **Base Company **dataset.
 
