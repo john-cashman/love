@@ -8,7 +8,7 @@ icon: wand-sparkles
 
 ### What is Make
 
-![Make website](../.gitbook/assets/make-hero.png)
+![Make website](../images/make-hero.png)
 
 [Make](https://www.make.com) is a powerful no-code automation platform that lets you visually build workflows across apps, APIs, and data sources.
 

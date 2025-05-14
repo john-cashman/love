@@ -10,7 +10,7 @@ Most AI-generated landing pages look the same—vague sections, off-brand colors
 
 We are going to share a structured workflow using Lovable and 21stdev that creates landing pages clients _actually_ love (like [this one](https://lovable.dev/projects/35d72d2e-6e25-40e5-9b0c-c0d1a7c1b727)).
 
-![Hero Section Landing Page](../.gitbook/assets/hero-section.png)
+![Hero Section Landing Page](../images/hero-section.png)
 
 ### Step-by-step guide
 

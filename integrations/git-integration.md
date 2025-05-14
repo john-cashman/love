@@ -6,7 +6,7 @@ icon: github
 
 # Git Integration
 
-![Github Lovable integration](../.gitbook/assets/github-lovable.png)
+![Github Lovable integration](../images/github-lovable.png)
 
 ### What is GitHub
 

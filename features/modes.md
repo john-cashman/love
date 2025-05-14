@@ -24,11 +24,11 @@ Switching Modes
 
 Click the **“Chat”** prompt at the bottom of your editor to toggle between Edit and Chat Modes.
 
-![Chat Mode Switch Pn](../.gitbook/assets/chat-mode-edit.png)
+![Chat Mode Switch Pn](../chat-mode-edit.png)
 
 When you're in Chat Mode and say “implement the plan,” Lovable will seamlessly switch to Edit Mode and start building for you.
 
-#### ![Implement Plan Pn](../.gitbook/assets/implement-plan.png)
+#### ![Implement Plan Pn](../images/implement-plan.png)
 
 **Top 15 Chat Mode Use Cases**
 

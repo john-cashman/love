@@ -8,7 +8,7 @@ icon: people-arrows
 
 ### Why Clerk?
 
-![What Is Clerk Pn](../.gitbook/assets/what-is-clerk.png)
+![What Is Clerk Pn](../images/what-is-clerk.png)
 
 [Clerk](https://clerk.com) handles authentication and user management so you don’t have to build it from scratch. With just a few prompts and config steps, you get:
 

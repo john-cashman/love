@@ -4,15 +4,15 @@
 
 ## Introduction
 
-* [Introduction](introduction/introduction.md)
-* [Faq](introduction/faq.md)
-* [Messaging Limits](introduction/messaging-limits.md)
-* [Teams](introduction/teams.md)
+* [Introduction](introduction.md)
+* [Faq](faq.md)
+* [Messaging Limits](user-guides/messaging-limits.md)
+* [Teams](user-guides/teams.md)
 
 ## Features
 
-* [Changelog](features/changelog.md)
-* [Quickstart](features/quickstart.md)
+* [Changelog](changelog.md)
+* [Quickstart](user-guides/quickstart.md)
 * [Modes](features/modes.md)
 * [Figma To Lovable](features/figma-to-lovable.md)
 * [Visual Edit](features/visual-edit.md)
@@ -20,7 +20,7 @@
 * [Dev Mode](features/dev-mode.md)
 * [Labs](features/labs.md)
 * [Deploy](features/deploy.md)
-* [Custom Domain](features/custom-domain.md)
+* [Custom Domain](tips-tricks/custom-domain.md)
 * [Launched](features/launched.md)
 
 ## Integrations
@@ -28,7 +28,7 @@
 * [Introduction](integrations/introduction.md)
 * [Git Integration](integrations/git-integration.md)
 * [Supabase](integrations/supabase.md)
-* [Setting Up Payments](integrations/setting-up-payments.md)
+* [Setting Up Payments](tips-tricks/setting-up-payments.md)
 * [Resend](integrations/resend.md)
 * [Clerk](integrations/clerk.md)
 * [Make](integrations/make.md)
@@ -38,31 +38,31 @@
 
 ## Tips & tricks
 
-* [From Idea To App](tips-and-tricks/from-idea-to-app.md)
-* [Best Practice](tips-and-tricks/best-practice.md)
-* [Troubleshooting](tips-and-tricks/troubleshooting.md)
-* [Mobile Store](tips-and-tricks/mobile-store.md)
-* [Seo](tips-and-tricks/seo.md)
-* [Using Images](tips-and-tricks/using-images.md)
-* [Using Videos](tips-and-tricks/using-videos.md)
-* [Chrome Extensions](tips-and-tricks/chrome-extensions.md)
-* [Custom Fonts](tips-and-tricks/custom-fonts.md)
-* [Community](tips-and-tricks/community.md)
+* [From Idea To App](user-guides/from-idea-to-app.md)
+* [Best Practice](user-guides/best-practice.md)
+* [Troubleshooting](tips-tricks/troubleshooting.md)
+* [Mobile Store](tips-tricks/mobile-store.md)
+* [Seo](tips-tricks/seo.md)
+* [Using Images](tips-tricks/using-images.md)
+* [Using Videos](tips-tricks/using-videos.md)
+* [Chrome Extensions](integrations/chrome-extensions.md)
+* [Custom Fonts](tips-tricks/custom-fonts.md)
+* [Community](tips-tricks/community.md)
 * [Support Policy](tips-and-tricks/support-policy.md)
-* [Npm Packages](tips-and-tricks/npm-packages.md)
-* [Glossary](tips-and-tricks/glossary.md)
+* [Npm Packages](features/npm-packages.md)
+* [Glossary](glossary.md)
 
 ## Prompt Engineering
 
-* [Prompting One](prompt-engineering/prompting-one.md)
-* [Prompting Library](prompt-engineering/prompting-library.md)
-* [Prompting Debugging](prompt-engineering/prompting-debugging.md)
-* [Prompt Integrations](prompt-engineering/prompt-integrations.md)
+* [Prompting One](tips-tricks/prompting-one.md)
+* [Prompting Library](tips-tricks/prompting-library.md)
+* [Prompting Debugging](tips-tricks/prompting-debugging.md)
+* [Prompt Integrations](integrations/prompt-integrations.md)
 
 ## Use Cases
 
 * [Inspiration](use-cases/inspiration.md)
-* [Video Tutorials](use-cases/video-tutorials.md)
-* [Landing Page](use-cases/landing-page.md)
-* [Prototype](use-cases/prototype.md)
-* [Saas](use-cases/saas.md)
+* [Video Tutorials](user-guides/video-tutorials.md)
+* [Landing Page](use-case/landing-page.md)
+* [Prototype](use-case/prototype.md)
+* [Saas](use-case/saas.md)

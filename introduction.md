@@ -51,5 +51,3 @@ The platform supports full-featured development and coding environments for thos
 ### Support
 
 ### Learn More
-
-test

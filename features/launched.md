@@ -8,7 +8,7 @@ icon: fire
 
 ### Lovable Lauched
 
-![](../.gitbook/assets/LovableLaunchedfromFigma.png)
+![](../images/LovableLaunchedfromFigma.png)
 
 We also built a platform, similar to Product Hunt, called [**Lovable Launched**](https://launched.lovable.dev/) where you can publish your app to get in front of thousands of people.
 
