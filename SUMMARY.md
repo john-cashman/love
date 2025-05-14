@@ -1,12 +1,16 @@
 # Table of contents
 
+* [README](README.md)
+
 ## Introduction
+
 * [Introduction](introduction.md)
 * [Faq](faq.md)
 * [Messaging Limits](user-guides/messaging-limits.md)
 * [Teams](user-guides/teams.md)
 
 ## Features
+
 * [Changelog](changelog.md)
 * [Quickstart](user-guides/quickstart.md)
 * [Modes](features/modes.md)
@@ -20,6 +24,7 @@
 * [Launched](features/launched.md)
 
 ## Integrations
+
 * [Introduction](integrations/introduction.md)
 * [Git Integration](integrations/git-integration.md)
 * [Supabase](integrations/supabase.md)
@@ -32,6 +37,7 @@
 * [21stdev Integration](integrations/21stdev-integration.md)
 
 ## Tips & tricks
+
 * [From Idea To App](user-guides/from-idea-to-app.md)
 * [Best Practice](user-guides/best-practice.md)
 * [Troubleshooting](tips-tricks/troubleshooting.md)
@@ -42,20 +48,21 @@
 * [Chrome Extensions](integrations/chrome-extensions.md)
 * [Custom Fonts](tips-tricks/custom-fonts.md)
 * [Community](tips-tricks/community.md)
-* [Support Policy](user-guides/support-policy.md)
+* [Support Policy](tips-and-tricks/support-policy.md)
 * [Npm Packages](features/npm-packages.md)
 * [Glossary](glossary.md)
 
 ## Prompt Engineering
+
 * [Prompting One](tips-tricks/prompting-one.md)
 * [Prompting Library](tips-tricks/prompting-library.md)
 * [Prompting Debugging](tips-tricks/prompting-debugging.md)
 * [Prompt Integrations](integrations/prompt-integrations.md)
 
 ## Use Cases
-* [Inspiration](tips-tricks/inspiration.md)
+
+* [Inspiration](use-cases/inspiration.md)
 * [Video Tutorials](user-guides/video-tutorials.md)
 * [Landing Page](use-case/landing-page.md)
 * [Prototype](use-case/prototype.md)
 * [Saas](use-case/saas.md)
-
