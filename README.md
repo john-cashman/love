@@ -4,12 +4,10 @@
 
 Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
-check out our [Broken link](broken-reference "mention") here!
-
 {% include "https://app.gitbook.com/s/Wv0wbcOlDNZTFIcTs43W/~/reusable/MwVffCZbPfpd0A0bA0IT/" %}
 
 {% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](broken-reference) section to learn more.
+Want to learn about writing content from scratch? Head to the [Basics](/broken/pages/i73g4LZQanoLj7XtSO18) section to learn more.
 {% endhint %}
 
 ### Import
